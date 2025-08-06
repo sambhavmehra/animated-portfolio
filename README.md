@@ -190,12 +190,6 @@ Ready for integration with:
 
 ## 🚀 Deployment Options
 
-### GitHub Pages
-```bash
-# Enable GitHub Pages in repository settings
-# Choose source: Deploy from branch (main)
-```
-
 ### Netlify
 1. Connect GitHub repository
 2. Build command: (none required)
@@ -258,4 +252,5 @@ This project is open source and available under the [MIT License](LICENSE).
 *Cybersecurity Strategist | Blockchain Developer | SIEM Analytics Engineer*
 
 > 🚀 Ready to secure your digital future? Let's connect!
+
 
