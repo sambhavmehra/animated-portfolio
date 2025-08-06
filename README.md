@@ -1,6 +1,5 @@
 ﻿# animated-portfolio
 
-# 🛡️ Sambhav Mehra - Cybersecurity Portfolio
 
 A modern, interactive cybersecurity professional portfolio website featuring advanced animations, AI-powered virtual assistant, and responsive design.
 
@@ -259,3 +258,4 @@ This project is open source and available under the [MIT License](LICENSE).
 *Cybersecurity Strategist | Blockchain Developer | SIEM Analytics Engineer*
 
 > 🚀 Ready to secure your digital future? Let's connect!
+
